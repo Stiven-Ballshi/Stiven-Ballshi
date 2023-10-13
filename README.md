@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Stiven-Ballshi. I'm a frontend Developer currently working with React Js
+- 👋 Hi, I’m @Stiven-Ballshi. I'm a frontend Developer currently working at Sisal Entertainment
 
-- 📚 Been working with , React , Vue , MongoDb, NodeJs. 
+- 📚 Been working with , React , Vue , MongoDb, NodeJs , Express Js, Prisma. 
 
-- 💻 Currently learning and reading many programming books
+- 💻 Currently learning and reading many programming books and as well reading some DevOps stuff. 
